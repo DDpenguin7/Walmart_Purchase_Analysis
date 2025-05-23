@@ -60,6 +60,11 @@ The interactive Power BI dashboard allows users to explore store performance, pr
 Dynamic filtering by branch, product line, and customer type.
 
 Visualizations of sales trends, average transaction values, and customer ratings.
+![Walmart_customer_purchases analysis1-1](https://github.com/user-attachments/assets/75712396-9b6e-4fd7-bee6-0ec004123a14)![Walmart_customer_purchases analysis1-5](https://github.com/user-attachments/assets/574d3e1d-6880-4e0d-80c5-9b5359aea0bd)
+![Walmart_customer_purchases analysis1-4](https://github.com/user-attachments/assets/2bfb85ea-d47b-4834-a231-5ff58b39793d)
+![Walmart_customer_purchases analysis1-3](https://github.com/user-attachments/assets/b887e280-2065-482b-b762-68022f6c4c4b)
+![Walmart_customer_purchases analysis1-2](https://github.com/user-attachments/assets/afd3d7bd-9eb6-4684-b776-73f6b94d6491)
+
 
 📊 Power BI File: Walmart_customer_purchases analysis1.pbix
 
